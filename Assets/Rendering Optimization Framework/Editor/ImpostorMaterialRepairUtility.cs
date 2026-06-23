@@ -1,0 +1,1 @@
+﻿// Intentionally empty. ImpostorMaterialRepairUtility lives in Windows/AAAOptimizerWindow.cs so stale Unity project files compile it.\r\n
